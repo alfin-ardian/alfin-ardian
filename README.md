@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfin-ardian&label=Profile%20views&color=0e75b6&style=flat" alt="alfin-ardian" /> </p>
 
-- 💬 Ask me about **React js and Laravel**
+- 💬 Ask me about **Frontend development and Backend development**
 
 - 📫 How to reach me **developer.alfin@gmail.com**
 
