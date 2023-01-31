@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Frontend development and Backend development**
 
-- 📫 How to reach me **developer.alfin@gmail.com**
+- 📫 How to reach me **work@alfinardian.dev**
 
 - ⚡ Fun fact **I think I am funny**
 
